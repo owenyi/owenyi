@@ -1,13 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/oweynyi/oweynyi/main/images/wave.gif" width="30px">
+### Backend Developer
+#### I want to make the world more convenient.
 
 ### :paperclip: Notion
-<p data-ke-size="size16"><a href="https://www.notion.so/7d005d012653494696405de9d61b30c2" target="_blank" rel="noopener">이상순의 헬로, 월드</a></p>
-<figure id="og_1628611747914" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="article" data-og-title="이상순의 헬로, 월드" data-og-description=" " data-og-host="www.notion.so" data-og-source-url="https://www.notion.so/7d005d012653494696405de9d61b30c2" data-og-url="https://www.notion.so/7d005d012653494696405de9d61b30c2" data-og-image="https://scrap.kakaocdn.net/dn/u5Z7a/hyLctuX4Ti/RHsiVZvFVmOE0k0UtlO3vK/img.jpg?width=1226&amp;height=333&amp;face=0_0_1226_333,https://scrap.kakaocdn.net/dn/B8ldT/hyLcuHoMo8/COPb6GhKEVRwEZKRghVkC1/img.jpg?width=1226&amp;height=333&amp;face=0_0_1226_333"><a href="https://www.notion.so/7d005d012653494696405de9d61b30c2" target="_blank" rel="noopener" data-source-url="https://www.notion.so/7d005d012653494696405de9d61b30c2">
-<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/u5Z7a/hyLctuX4Ti/RHsiVZvFVmOE0k0UtlO3vK/img.jpg?width=1226&amp;height=333&amp;face=0_0_1226_333,https://scrap.kakaocdn.net/dn/B8ldT/hyLcuHoMo8/COPb6GhKEVRwEZKRghVkC1/img.jpg?width=1226&amp;height=333&amp;face=0_0_1226_333');">&nbsp;</div>
-<div class="og-text">
-<p class="og-title" data-ke-size="size16">이상순의 헬로, 월드</p>
-<p class="og-desc" data-ke-size="size16">&nbsp;</p>
-<p class="og-host" data-ke-size="size16">www.notion.so</p>
+[이상순의 헬로, 월드](https://github-readme-stats.vercel.app/api/pin/?username=owenyi&repo=onego)  
+<img src="https://raw.githubusercontent.com/owenyi/owenyi/main/images/helloworld.jpg" width="30px">
+
 </div>
 </a></figure>
 <p data-ke-size="size16">&nbsp;</p>
