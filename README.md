@@ -2,8 +2,7 @@
 #### I want to make the world more convenient.
 
 ### :paperclip: Notion
-[이상순의 헬로, 월드](https://github-readme-stats.vercel.app/api/pin/?username=owenyi&repo=onego)  
-<img src="https://raw.githubusercontent.com/owenyi/owenyi/main/images/helloworld.jpg" width="30px">
+[<img src="images/helloworld.gif" width="500px">](https://www.notion.so/7d005d012653494696405de9d61b30c2)
 
 </div>
 </a></figure>
