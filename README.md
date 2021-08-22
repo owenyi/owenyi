@@ -2,7 +2,7 @@
 #### I want to make the world more convenient.
 
 ### :paperclip: Notion
-[<img src="images/helloworld.gif" width="500px">](https://www.notion.so/7d005d012653494696405de9d61b30c2)
+[<img src="images/helloworld.png" width="500px">](https://www.notion.so/7d005d012653494696405de9d61b30c2)
 
 </div>
 </a></figure>
