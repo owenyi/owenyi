@@ -1,12 +1,13 @@
-### Backend Developer
-#### I want to make the world more convenient.
+## Backend Developer
+<br>
+
+### 'I want to make life more convenient'
+**I'm convinced that IT can make life more convenient.  
+I grow through steadiness, develop through communication.**
+<br><br><br>
 
 ### :paperclip: Notion
 [<img src="images/helloworld.png" width="500px">](https://www.notion.so/7d005d012653494696405de9d61b30c2)
-
-</div>
-</a></figure>
-<p data-ke-size="size16">&nbsp;</p>
 
 ### :fire: Keywork
 [![onego](https://github-readme-stats.vercel.app/api/pin/?username=owenyi&repo=onego)](https://github.com/owenyi/onego) 
@@ -16,7 +17,7 @@
 ### :pencil2: Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenyi&exclude_repo=encore-ai,datascience-studyfolio&hide=html&custom_title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-### :seedling: Consistency
+### :seedling: Steadiness
 [![owenyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenyi&show_icons=true&count_private=true&hide=contribs)](https://github.com/owenyi)
 
 ### :closed_lock_with_key: Problem Solving Skills
