@@ -3,7 +3,7 @@
 
 ### 'I want to make life more convenient'
 **I'm convinced that IT can make life more convenient.  
-I grow through steadiness, develop through communication.**
+I grow through being persistent and develop through communication.**
 <br><br><br>
 
 ### :paperclip: Notion
@@ -17,7 +17,7 @@ I grow through steadiness, develop through communication.**
 ### :pencil2: Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenyi&exclude_repo=encore-ai,datascience-studyfolio&hide=html&custom_title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-### :seedling: Steadiness
+### :seedling: Persistency
 [![owenyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenyi&show_icons=true&count_private=true&hide=contribs)](https://github.com/owenyi)
 
 ### :closed_lock_with_key: Problem Solving Skills
